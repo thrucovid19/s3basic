@@ -1,0 +1,14 @@
+S3 basic operations
+
+- Create buckets
+- Upload files
+- Add tags
+- Bucket Policy
+- ACL
+- logging
+- lifecycle rules
+- versioning
+- Website
+- replication
+- encryption
+- object level logging
